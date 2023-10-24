@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "299613983974",
+    "project_id": "chatapp-f5bc6",
+    "storage_bucket": "chatapp-f5bc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299613983974:android:63caad52ec73f842d31727",
+        "android_client_info": {
+          "package_name": "com.example.chatsy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGYJqACVnZvTtXx3GLB9YybrkRsd3beDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
